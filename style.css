@@ -1,0 +1,28 @@
+body {
+    background-color:#99FFFF;
+    margin: 0;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+}
+.top {
+    background-color:#99FFFF;
+    /* position: relative; */
+    padding-top: 100px;
+}
+.middle {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.contact-me {
+    text-align: center;
+}
+.bottom {
+    text-align: center;
+}
+.footer-link {
+    text-align: center;
+}
+#avatar {
+    border-radius: 50%;
+}
